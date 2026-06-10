@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jaxassistant55.github.io/automation-blueprint-starter/sitemap.xml
