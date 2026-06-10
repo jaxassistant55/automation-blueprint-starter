@@ -5,6 +5,11 @@ title: "Paid inquiry: automation blueprint"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-automation-blueprint.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/automation-blueprint-starter/inquiry.html
+
 ## Buyer Request
 
 - Current workflow:
