@@ -5,6 +5,7 @@ Free public preview for a fixed-scope Automation Blueprint.
 This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/automation-blueprint.html
+- Structured ready-to-pay issue form: https://github.com/jaxassistant55/automation-blueprint-starter/issues/new?template=ready-to-pay-automation-blueprint-starter.yml
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-automation-blueprint.html
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/automation-blueprint-starter/inquiry.html
